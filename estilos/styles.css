@@ -9,3 +9,8 @@ nav ul{
     display: flex;
 
 }
+ img{
+    
+    justify-content: flex-end;
+
+}
